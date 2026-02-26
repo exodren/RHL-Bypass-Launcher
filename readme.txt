@@ -2,7 +2,7 @@ RHL 16 Bypass Launcher
 Developer: Exodren
 Version: 1.0 (Stable)
 
-Описание: Данный лаунчер предназначен для стабильного запуска мода RHL 16 (NHL 09) в https://github.com/exodren/RHL-Bypass-Launcher/blob/main/readme.txt
+Описание: Данный лаунчер предназначен для стабильного запуска мода RHL 16 (NHL 09) в 
 обход защиты SecuROM. Он автоматически внедряет необходимые исправления в память игры 
 сразу после запуска.
 
